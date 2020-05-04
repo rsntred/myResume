@@ -1,0 +1,29 @@
+#dws-slider{
+	width:60%;
+	margin-left:20%;
+	/*margin-top:10%;*/
+}
+
+.carousel-inner h3 {
+	font-size: 1.5vw;
+	background-color: rgba(20, 49, 68, 0.6);
+	padding: 4%;
+}
+.carousel-inner p {
+	font-size: 1.2vw;
+	background-color: rgba(30, 29, 29, 0.6);
+	padding: 4%;
+	line-height: 0.9em;
+}  
+
+/*.carousel-inner h3 {
+	background-color: rgba(20, 49, 68, 0.6);
+	padding: 20px;
+	animation: anim-H3 1.3s ease-out;
+}
+.carousel-inner p {
+	font-size: 18px;
+	background-color: rgba(30, 29, 29, 0.6);
+	padding: 20px;
+	animation: anim-P 1.6s ease-out;
+}*/
